@@ -74,7 +74,7 @@
 
 #### **2026년 6월 27일**: [Webex](https://lgehq.webex.com/lgehq-en/j.php?MTID=m9e14685ad10ac697b11d657df7297a6a)
 
-* 발표자 - TBD
+* 발표자 - Wonmi
 * **Chapter 6. 자금 및 리스크 관리 (Money and Risk Management)**
     * Kelly 공식을 통한 최적 레버리지 산출 ($F^* = C^{-1}M$)
     * Half-Kelly 배팅의 강건성과 실무 적용
